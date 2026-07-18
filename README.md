@@ -1,4 +1,4 @@
-# FinEdge API
+# Banking Portal API
 
 A backend banking platform focused on secure authentication and financial operations.
 
