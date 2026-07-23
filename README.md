@@ -40,7 +40,7 @@ FinEdge is being developed as a long-term project to practice real backend engin
 
 ## Project Structure
 
-```
+```text
 controller/
 service/
 repository/
@@ -94,7 +94,7 @@ CREATE DATABASE finedge_db;
 
 Configure your local database credentials inside:
 
-```
+```text
 application.properties
 ```
 
